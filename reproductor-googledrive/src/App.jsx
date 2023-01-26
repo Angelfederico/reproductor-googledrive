@@ -9,8 +9,9 @@ function App() {
     <>
 
       <h1>Reproductor googledrive</h1>
-      <>
-        )
+      <p>Esta app trae los datos de una api externa</p>
+    </>
+  )
 }
 
-        export default App
+export default App
