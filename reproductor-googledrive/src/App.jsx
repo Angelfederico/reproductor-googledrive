@@ -8,8 +8,8 @@ function App() {
   return (
     <>
 
-      <h1>Reproductor googledrive</h1>
-      <p>Esta app trae los datos </p>
+      <h1>Reproductor googledrive!!!</h1>
+
     </>
   )
 }
